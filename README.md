@@ -1,1 +1,1 @@
-# Background-changer
+# Background-changer using HTML, CSS and Javascript
